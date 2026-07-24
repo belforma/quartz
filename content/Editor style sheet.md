@@ -12,6 +12,7 @@ Beatrice Othniel (she/her/hers)
 buff
 
 card
+Casella (she/her/hers)
 champion (card)
 Champion (lore)
 Charon Express
@@ -27,7 +28,7 @@ Dis
 DisCorp
 Disonians
 distant
-District 0X
+District 0X (BUT xth district)
 domain
 
 element
@@ -38,6 +39,7 @@ exia
 
 fast activation
 fire
+Forese (she/her/hers)
 foster
 
 glimpse
@@ -46,13 +48,13 @@ Good Lady Harmonia
 Grand Archive
 graveyard
 
-Harmonia
+Harmonia (She/Her/Hers)
 Higher Plane
 
 imbue
 influence
 
-Judas he/him/his
+Judas (he/him/his)
 Jumbo Cards
 
 Krustal
@@ -62,8 +64,9 @@ Krustallan
 level
 leyline
 lineage
+Lorraine (she/her/hers)
 Lower Plane
-Lucia
+Lucia (she/her/hers)
 luxem
 
 material deck
@@ -101,6 +104,7 @@ stealth
 Suited
 
 taunt
+time is distorted
 Tower of Dis
 trigger
 
