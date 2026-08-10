@@ -9,18 +9,15 @@ Asphodel
 astra
 
 banish(ment)
-Beatrice Othniel (she/her/hers)
 buff
 
 card
-Casella (she/her/hers)
 champion (card)
 Champion (lore)
 Charon Express
 combat
 counter
 
-Dante (he/him/his)
 DCSF
 decklists
 delevel
@@ -56,7 +53,6 @@ Higher Plane
 imbue
 influence
 
-Judas (he/him/his)
 Jumbo Cards
 
 Krustal
@@ -66,9 +62,7 @@ Krustallan
 level
 leyline
 lineage
-Lorraine Allard (she/her/hers)
 Lower Plane
-Lucia (she/her/hers)
 luxem
 
 material deck
@@ -117,7 +111,22 @@ Uncut Sheets
 unique
 unit
 
-Virgil Holden (he/him/his)
-
 water
 wind
+
+# Characters
+Beatrice Othniel (she/her/hers)
+
+Casella (she/her/hers)
+
+Dante (he/him/his)
+
+Forese (she/her/hers)
+
+Judas (he/him/his)
+
+Lorraine Allard (she/her/hers)
+Lucca (she/her/hers)
+Lucia (she/her/hers)
+
+Virgil Holden (he/him/his)
