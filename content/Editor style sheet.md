@@ -5,6 +5,7 @@ agility
 ally
 arcane
 Ascent Store ticket
+Asphodel
 astra
 
 banish(ment)
@@ -39,6 +40,7 @@ exia
 
 fast activation
 fire
+Foil
 Forese (she/her/hers)
 foster
 
@@ -64,7 +66,7 @@ Krustallan
 level
 leyline
 lineage
-Lorraine (she/her/hers)
+Lorraine Allard (she/her/hers)
 Lower Plane
 Lucia (she/her/hers)
 luxem
@@ -75,6 +77,7 @@ memory
 
 negate
 neos
+Non-Foil
 North
 
 object
@@ -84,6 +87,7 @@ phantasia
 phase
 Premium items
 preparation
+Primum Ordo
 Prize Wall
 Proto Archive
 
