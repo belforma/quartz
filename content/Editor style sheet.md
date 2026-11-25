@@ -49,17 +49,15 @@ exia
 fast activation
 fire
 Foil
-Forese (she/her/hers)
 foster
 
 glimpse
 god(dess)
 godhood
-Good Lady Harmonia
+Good Lady (Harmonia)
 Grand Archive
 graveyard
 
-Harmonia (She/Her/Hers)
 Higher Plane
 
 imbue
@@ -145,6 +143,8 @@ Casella Voxilis (she/her/hers)
 Dante (he/him/his)
 
 Forese (she/her/hers)
+
+Harmonia (She/Her/Hers)
 
 Judas (he/him/his)
 
